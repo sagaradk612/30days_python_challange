@@ -1,0 +1,39 @@
+🐍 Day 5 — Quiz Game
+
+Create a Python program called:
+
+quiz_game.py
+Requirements
+
+Your program should:
+
+Ask 5 questions
+Accept the user's answers
+Check answers
+Keep a score
+Show the final score
+Show a result message based on the score
+Make answers case-insensitive
+
+Example:
+
+========================
+      PYTHON QUIZ
+========================
+
+Q1. What is the capital of France?
+> paris
+Correct! ✓
+
+Q2. What is 5 + 5?
+> 10
+Correct! ✓
+
+...
+
+========================
+        RESULT
+========================
+
+Score: 4/5
+Good job!

@@ -1,1 +1,0 @@
-# 30days_python_challange

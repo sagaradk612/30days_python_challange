@@ -1,3 +1,11 @@
+quiz_data=[{
+    "Question" : "What is the capital of France?",
+    "Answer" : "Paris"}
+           {[
+           "Question" : "What is 5+5?"
+    
+
+
 score = 0
 
 

@@ -1,0 +1,37 @@
+Build a command-line To-Do List program.
+
+Your program should allow the user to:
+
+==== TO-DO LIST ====
+
+1. Add task
+2. View tasks
+3. Remove task
+4. Exit
+
+Requirements:
+
+Use a list to store tasks.
+Use a while loop to keep the program running.
+Use if / elif / else.
+input() for user choices.
+User can add tasks.
+User can view all tasks.
+User can remove a task.
+Exit when the user chooses 4.
+
+Example:
+
+Choose an option: 1
+Enter task: Learn Python
+
+Choose an option: 1
+Enter task: Practice loops
+
+Choose an option: 2
+
+==== TASKS ====
+1. Learn Python
+2. Practice loops
+
+Bonus: Add a 5. Clear all tasks option.
